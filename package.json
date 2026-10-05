@@ -1,0 +1,22 @@
+{
+  "name": "campus-help-desk",
+  "version": "1.0.0",
+  "description": "Campus Help Desk - Student Portal Mini Project for Assignment 04",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "campus-help-desk",
+    "express",
+    "vanilla-js",
+    "student-portal",
+    "assignment-04"
+  ],
+  "author": "Nikhil Dubey",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

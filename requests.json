@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "studentName": "Nikhil Dubey",
+    "email": "student@example.com",
+    "category": "IT Support",
+    "description": "WiFi is not connecting in Computer Lab 3 on the 2nd floor.",
+    "priority": "High",
+    "status": "Pending",
+    "createdAt": "2026-09-30T10:30:00.000Z"
+  },
+  {
+    "id": 2,
+    "studentName": "Aarav Sharma",
+    "email": "aarav.sharma@campus.edu",
+    "category": "Library",
+    "description": "Digital library access card barcode is unreadable and needs renewal.",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2026-09-29T14:15:00.000Z"
+  },
+  {
+    "id": 3,
+    "studentName": "Priya Patel",
+    "email": "priya.p@campus.edu",
+    "category": "Hostel",
+    "description": "Hot water geyser in Block B, Room 204 has been repaired and verified.",
+    "priority": "Low",
+    "status": "Resolved",
+    "createdAt": "2026-09-28T09:00:00.000Z"
+  }
+]
